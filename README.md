@@ -1,5 +1,5 @@
 - 👋 Hi, I’m aniket banerjee
-- 👀 I’m interested in data
+- 👀 I’m interested in reading data and drawing relevant conclusing using comparitive analysis
 - 🌱 I’m currently learning data analytics
 - 📫 reach me via email : office.banerjee03@gmail.com
 
